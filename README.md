@@ -1,12 +1,13 @@
 # Project-2
 
-Various questions/topics related to the Texas Commission on Environmental Quality occupational licsensing data such as:
+Various questions/topics related to the Texas Commission on Environmental Quality (TCEQ) occupational licsensing data such as:
 
 ## Exam pass rate data analysis
 * Exam pass rates per state gegraphical region per program
-* Exam pass rates per TWUA regional school per program
+* Exam pass rates per Texas Water Utilities Association (TWUA) regional school per program
 * Exam pass rates per training provider per program
 * Exam pass rates prior to 9/1/2016 compared to exam pass rates after 3/1/2017 (to compare recently implemented pre-approval process)
+* Exam pass rates for new Spanish/English test set compared to prior Spanish test sets
 
 
 ## Map of licensed operators
@@ -14,6 +15,7 @@ Various questions/topics related to the Texas Commission on Environmental Qualit
 
 ## Phone call data analysis
 * Phone call frequency over time per program line
+* Number of calls answered per staff over time 
 
 ## Criminal history data analysis
 * Number of applicants who have applied for a low risk and high risk license and the outcome of their criminal history evaluations
